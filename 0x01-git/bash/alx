@@ -1,1 +1,2 @@
-echo_ALX echo_ALX_school
+#!/bin/bash
+echo "The school is open!"
